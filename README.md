@@ -7,6 +7,4 @@
 - 💬 Curto video games, animes, trilhas no rj te garanto que vamos ter muito o que trocar.
 - ⚡ Curiosidade: misturo planilhas com samba — literalmente! Toco percussão nas horas vagas. 🥁
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudotdrj-byte)](https://github.com/estudotdrj-byte/github-readme-stats_icons=radical&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudotdrj-byte&show_icons=radical&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estudotdrj-byte&show_icons=true&theme=radical)
